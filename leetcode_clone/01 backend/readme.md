@@ -1,5 +1,13 @@
 # leetcode clone (just for learning purpose) backend part
 
+# Technologies Used
+
+01. **Node.js**: A powerful JavaScript runtime environment that allows executing JavaScript code server-side.
+02. **Express**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+03. **Nodemon**: A command-line tool that enhances the development workflow for Node.js applications by automatically restarting the server upon detecting changes in the project directory.
+
+
+
 ## Beginner Tasks
 - [ ] **Setup Express Application**
   - [ ] Install Express and set up the basic server structure.
