@@ -9,9 +9,9 @@
 
 
 ## Beginner Tasks
-- [ ] **Setup Express Application**
-  - [ ] Install Express and set up the basic server structure.
-  - [ ] Ensure the server is running on the specified port (3001).
+- [x] **Setup Express Application**
+  - [x] Install Express and set up the basic server structure.
+  - [x] Ensure the server is running on the specified port (3001).
 
 - [ ] **Create `USERS` Array**
   - [ ] Define an empty `USERS` array to store user information.
