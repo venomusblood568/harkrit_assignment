@@ -13,8 +13,10 @@
   - [x] Install Express and set up the basic server structure.
   - [x] Ensure the server is running on the specified port (3001).
 
-- [ ] **Create `USERS` Array**
-  - [ ] Define an empty `USERS` array to store user information.
+- [x] **Create `USERS` Array**
+  - [x] Define an empty `USERS` array.
+  - [x] Users must provide name, email, and password.
+  - [x] Ensure the email is unique.
 
 - [ ] **Create `QUESTIONS` Array**
   - [ ] Define a `QUESTIONS` array with a sample question.
