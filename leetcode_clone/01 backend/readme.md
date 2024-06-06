@@ -5,6 +5,7 @@
 01. **Node.js**: A powerful JavaScript runtime environment that allows executing JavaScript code server-side.
 02. **Express**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 03. **Nodemon**: A command-line tool that enhances the development workflow for Node.js applications by automatically restarting the server upon detecting changes in the project directory.
+4. **uudi**: A popular npm package for generating universally unique identifiers (UUIDs) in JavaScript and Node.js. It supports multiple versions (v1, v3, v4, v5) and is ideal for creating unique database keys, session IDs, and more.
 
 
 
@@ -17,9 +18,11 @@
   - [x] Define an empty `USERS` array.
   - [x] Users must provide name, email, and password.
   - [x] Ensure the email is unique.
+  - [x] Ensure the username is unique.
+  - [x] Return a random token unique for each user. 
 
-- [ ] **Create `QUESTIONS` Array**
-  - [ ] Define a `QUESTIONS` array with a sample question.
+- [x] **Create `QUESTIONS` Array**
+  - [x] Define a `QUESTIONS` array with a sample question.
 
 - [ ] **Create `SUBMISSION` Array**
   - [ ] Define an empty `SUBMISSION` array to store user submissions.
