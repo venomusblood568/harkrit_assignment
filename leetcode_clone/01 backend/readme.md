@@ -24,14 +24,17 @@
 - [x] **Create `QUESTIONS` Array**
   - [x] Define a `QUESTIONS` array with a sample question.
 
-- [ ] **Create `SUBMISSION` Array**
-  - [ ] Define an empty `SUBMISSION` array to store user submissions.
+- [x] **Create `SUBMISSION` Array**
+  - [x] Define an empty `SUBMISSION` array to store user submissions.
 
-- [ ] **Implement `/signup` Route**
-  - [ ] Decode request body to extract email and password.
-  - [ ] Check if the user with the given email already exists.
-  - [ ] If not, store the email and password in the `USERS` array.
-  - [ ] Return a 200 status code.
+- [x] **Implement `/signup` Route**
+  - [x] Decode request body to extract email and password.
+  - [x] Check if the user with the given email already exists.
+  - [x] If not, store the email and password in the `USERS` array.
+  - [x] Return a 200 status code.
+
+
+**at this point realised that user and signup are bascally doing same thing so i merge those two**
 
 - [ ] **Implement `/login` Route**
   - [ ] Decode request body to extract email and password.
