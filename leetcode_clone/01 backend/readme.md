@@ -36,12 +36,12 @@
 
 **at this point realised that user and signup are bascally doing same thing so i merge those two**
 
-- [ ] **Implement `/login` Route**
-  - [ ] Decode request body to extract email and password.
-  - [ ] Check if the user exists in the `USERS` array.
-  - [ ] Verify the password.
-  - [ ] If valid, return a 200 status code and a token (random string).
-  - [ ] If invalid, return a 401 status code.
+- [x] **Implement `/login` Route**
+  - [x] Decode request body to extract email and password.
+  - [x] Check if the user exists in the `USERS` array.
+  - [x] Verify the password.
+  - [x] If valid, return a 200 status code and a token (random string).
+  - [x] If invalid, return a 401 status code.
 
 ## Intermediate Tasks
 - [ ] **Implement `/questions` Route**
