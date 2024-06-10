@@ -44,16 +44,16 @@
   - [x] If invalid, return a 401 status code.
 
 ## Intermediate Tasks
-- [ ] **Implement `/questions` Route**
-  - [ ] Return all questions from the `QUESTIONS` array to the client.
+- [X] **Implement `/questions` Route**
+  - [X] Return all questions from the `QUESTIONS` array to the client.
 
-- [ ] **Implement `/submissions` GET Route**
-  - [ ] Return all submissions from the `SUBMISSION` array to the client.
+- [x] **Implement `/submissions` GET Route**
+  - [x] Return all submissions from the `SUBMISSION` array to the client.
 
-- [ ] **Implement `/submissions` POST Route**
-  - [ ] Allow users to submit solutions.
-  - [ ] Randomly accept or reject the solution.
-  - [ ] Store the submission in the `SUBMISSION` array.
+- [x] **Implement `/submissions` POST Route**
+  - [x] Allow users to submit solutions.
+  - [x] Randomly accept or reject the solution.
+  - [x] Store the submission in the `SUBMISSION` array.
 
 ## Advanced Tasks
 - [ ] **Create Admin-Only Route to Add New Problem**
