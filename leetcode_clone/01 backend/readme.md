@@ -56,10 +56,10 @@
   - [x] Store the submission in the `SUBMISSION` array.
 
 ## Advanced Tasks
-- [ ] **Create Admin-Only Route to Add New Problem**
-  - [ ] Create a new route that allows an admin to add a new problem.
-  - [ ] Ensure that only admins can access this route.
-  - [ ] Add logic to verify if the user is an admin.
+- [x] **Create Admin-Only Route to Add New Problem**
+  - [x] Create a new route that allows an admin to add a new problem.
+  - [x] Ensure that only admins can access this route.
+  - [x] Add logic to verify if the user is an admin.
 
 ## Optional Enhancements
 - [ ] **Enhance Security**
