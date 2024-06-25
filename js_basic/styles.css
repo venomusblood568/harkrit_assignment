@@ -1,0 +1,29 @@
+body {
+    background: url('https://images.pexels.com/photos/772988/pexels-photo-772988.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    color: white;
+    margin: 0;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.game-frame {
+    position: relative;
+    width: 900px;
+    height: 600px;
+    border: 2px solid white;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.player {
+    position: absolute;
+    top: 50%; /* Initially center vertically */
+    left: 50%; /* Initially center horizontally */
+    transform: translate(-50%, -50%); /* Center the player element */
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
